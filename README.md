@@ -9,7 +9,7 @@ This repository contains two Python programs demonstrating basic control structu
 - Checks if it's even or odd using an if-else condition.
 - Displays the result.
 
-**File**: `task1_even_or_odd.py`
+**File**: `task1.py`
 
 ---
 
@@ -18,7 +18,7 @@ This repository contains two Python programs demonstrating basic control structu
 - Calculates the sum of all numbers in this range.
 - Prints the final result.
 
-**File**: `task2_sum_1_to_50.py`
+**File**: `task2.py`
 
 ---
 
@@ -27,5 +27,5 @@ This repository contains two Python programs demonstrating basic control structu
 Make sure you have Python installed. Then run each file like this:
 
 ```bash
-python task1_even_or_odd.py
-python task2_sum_1_to_50.py
+python task1.py
+python task2.py
